@@ -1,9 +1,10 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee2",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/N30GUY/AMPTemplates.git",
-	"url": "https://github.com/N30GUY/AMPTemplates",
-	"imagefile": "",
-	"prefix": "KSP",
-	"repotype": "AppTemplates"
+    "id": "005ec484-ac4e-4c08-be8e-5ec5ae7b8577",
+    "authors": [
+        "Neoguy - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/Neoguy - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/Neoguy - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "Neoguy - Made with AMP Config Generator"
 }

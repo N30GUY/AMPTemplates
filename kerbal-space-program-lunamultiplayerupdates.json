@@ -1,0 +1,15 @@
+[
+    {
+        "UpdateStageName": "Config File Download",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "LunaMultiplayer-Server-linux-x64-Release.zip",
+        "UpdateSourceArgs": "LunaMultiplayer/LunaMultiplayer",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "UpdateSourceConditionSetting": "GithubDownload",
+        "UpdateSourceConditionValue": "true",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
